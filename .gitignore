@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Tailwind CSS build files (if applicable)
+*.css.map
+
+# IDE or editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Package lock and yarn lock files (if you're not using them for version control)
+package-lock.json
+yarn.lock
